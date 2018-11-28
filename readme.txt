@@ -1,2 +1,2 @@
-Git is a verson control system
-Git is a free software
+git is a distributed version control system
+fit is a free software distributed under the GPL.	
